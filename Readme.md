@@ -21,7 +21,7 @@ Made use of Google Cloud instances to train the data on GPU.
 1. generate.py - script to generate large amount of sample captchas through randomness
 2. train.py -  script to train the model by inputting part of sample captchas that were generated
 3. classify.py - Model trained is used to classify the new set of image captchas through this script
-4. commands.txt - set of commands through with other scripts are executed defining batch size and epochs iterated for training and classification
+4. commands.txt - set of commands through which above scripts are executed defining batch size and epochs iterated for training and classification
 
 ###### Keywords
-Image captcha, tensor flow, keras, consulation layer, scalable computing
+Image captcha, tensor flow, keras, convulation layer, scalable computing
